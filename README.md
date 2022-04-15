@@ -1,4 +1,4 @@
-# MinMax Algorithm
+# Min-Max Algorithm
 
 * Mini-max algorithm is a recursive or backtracking algorithm which is used in decision-making and game theory. It provides an optimal move for the player assuming that opponent is also playing optimally.
 * Mini-Max algorithm uses recursion to search through the game-tree.
